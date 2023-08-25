@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SocialApp/static/css/main.a728db1c.css",
+    "main.js": "/SocialApp/static/js/main.aacdd0f0.js",
+    "static/js/787.cda612ba.chunk.js": "/SocialApp/static/js/787.cda612ba.chunk.js",
+    "static/media/Profile.png": "/SocialApp/static/media/Profile.76e216207ea8a2913dca.png",
+    "index.html": "/SocialApp/index.html",
+    "main.a728db1c.css.map": "/SocialApp/static/css/main.a728db1c.css.map",
+    "main.aacdd0f0.js.map": "/SocialApp/static/js/main.aacdd0f0.js.map",
+    "787.cda612ba.chunk.js.map": "/SocialApp/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a728db1c.css",
+    "static/js/main.aacdd0f0.js"
+  ]
+}
