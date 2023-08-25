@@ -1,0 +1,10 @@
+.home{
+    background-color: aliceblue;
+    height: 100vh;
+}
+.ComponentContainer{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}

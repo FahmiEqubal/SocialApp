@@ -1,0 +1,92 @@
+.twitter-post-container {
+    background-color: white;
+    border: 1px solid #e1e8ed;
+    border-radius: 10px;
+    padding: 16px;
+    width: 400px;
+    margin: 0 auto;
+    box-shadow: 0 1px 3px rgba(27, 31, 35, 0.1);
+  }
+  
+  .toolBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .action-icons {
+    display: flex;
+    gap: 16px;
+  }
+  
+  .icon-label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    color: #1da1f2;
+  }
+  
+  .attachment-input {
+    display: none;
+  }
+  
+  .schedule-input {
+    border: none;
+    border-bottom: 1px solid #e1e8ed;
+    padding: 4px 0;
+    width: 180px;
+  }
+  
+  .addButton {
+    color: #1da1f2;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .tweetButtonInline {
+    padding: 8px 16px;
+    background-color: #1da1f2;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .tweetButtonInline:hover {
+    background-color: #0c85d0;
+  }
+  
+  .post-textarea {
+    width: 100%;
+    border: none;
+    resize: none;
+    font-size: 18px;
+    padding: 10px 12px;
+    margin-bottom: 10px;
+    background-color: #f7f8fa;
+    border-radius: 8px;
+  }
+  
+  .countdown-circle {
+    /* Add your styling for the countdown circle */
+  }
+  
+  .post-button {
+    background-color: #1da1f2;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 10px; /* Add margin to separate from the text input */
+    align-self: flex-end; /* Align to the right side */
+  }
+  
+  .post-button:hover {
+    background-color: #0c85d0;
+  }
+  
